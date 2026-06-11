@@ -1,0 +1,180 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "f2126d42-ef62-4631-a504-c2095587c806",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "abhi\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=\"abhi\"\n",
+    "print(name)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "8060c426-8586-4ac8-b17d-9158388898a7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "20\n"
+     ]
+    }
+   ],
+   "source": [
+    "age=20\n",
+    "print(age)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "bce5078a-bc94-4d99-b5b7-3e5f647a7b21",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "abhi\n",
+      "dhadiabhinayasri2006@gmail.com\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=\"abhi\"\n",
+    "print(name)\n",
+    "email=\"dhadiabhinayasri2006@gmail.com\"\n",
+    "print(email)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "fd658043-106e-42e3-857e-755ca0c825f9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Karimnagar\n"
+     ]
+    }
+   ],
+   "source": [
+    "city=\"Karimnagar\"\n",
+    "print(city)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "733c58fa-34e0-499c-a181-83af9f231d77",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "bhi\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=\"abhi\"\n",
+    "print(name[1:5])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "4e59ddf4-8acb-400b-b07f-87babca9e034",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "4\n"
+     ]
+    }
+   ],
+   "source": [
+    "name=\"abhi\"\n",
+    "print(len(name))"
+   ]
+  },
+  {
+   "cell_type": "raw",
+   "id": "3a4bb4d4-c381-4ebb-bc99-1e4b278b0e9c",
+   "metadata": {},
+   "source": [
+    "first=\"abhi\"\n",
+    "second=\"dhadi\"\n",
+    "print(first+ \"\" +second)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "8a529856-3825-469b-9701-8ddbc398a494",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "abhidhadi\n"
+     ]
+    }
+   ],
+   "source": [
+    "first=\"abhi\"\n",
+    "second=\"dhadi\"\n",
+    "print(first+ \"\" +second)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a5621904-eba3-4011-bd81-65e4769345d9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
